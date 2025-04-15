@@ -4,6 +4,7 @@
 ### **🚀 About Cryptic Executor**  
 The **most advanced, undetectable Roblox executor** for Windows, trusted by thousands . Cryptic Executor combines **Level 7 exploit power** with seamless compatibility across all Roblox games, delivering instant script execution and game-changing tools like *auto-aim* and *teleportation* .  
 
+[![Download Cryptic](https://img.shields.io/badge/Download-Cryptic-blueviolet)](https://rblxexecutors.github.io/executors/cryptic-windows/)
 ---
 
 ### **✨ Key Features**  
